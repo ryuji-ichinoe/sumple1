@@ -6,3 +6,4 @@ peropero
 
 hogehoge
 
+kanimiso
